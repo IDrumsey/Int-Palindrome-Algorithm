@@ -1,0 +1,5 @@
+1. Split the number into halves
+
+2. Reverse second half
+
+3. Check if ==
